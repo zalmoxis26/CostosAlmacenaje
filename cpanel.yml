@@ -1,0 +1,5 @@
+---
+deplyment:
+  tasks:
+    - export DEPLOYPATH=/home/xqvgynks/public_html/
+    - /bin/rsync -a --exclude 'index.php' public/ $DEPLOYPATH
