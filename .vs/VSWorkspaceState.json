@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Exports",
+    "\\resources",
+    "\\resources\\js",
+    "\\resources\\views",
+    "\\resources\\views\\cliente",
+    "\\resources\\views\\layouts",
+    "\\resources\\views\\pedido",
+    "\\resources\\views\\precio"
+  ],
+  "SelectedNode": "\\resources\\views\\pedido\\pedido_excel.blade.php",
+  "PreviewInSolutionExplorer": false
+}
